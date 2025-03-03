@@ -10,6 +10,6 @@
 
   -  对项目进行修改：
 
-     1. 将login.html中的“XXX”更改为被祝福人的姓名
+1 . 将login.html中的“XXX”更改为被祝福人的姓名
     ![explain 1](./explain/173648.png)
      2. 
