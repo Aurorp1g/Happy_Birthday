@@ -53,7 +53,9 @@ npm --version
 ### 2️⃣ 安装依赖
 ```bash
 # 克隆仓库（如果适用）
-# git clone [repository-url]
+git clone https://github.com/Aurorp1g/Happy_Birthday.git
+
+# 进入项目目录
 cd Happy_Birthday
 
 # 安装项目依赖
@@ -172,7 +174,7 @@ music:
 ---
 
 ## 📝 许可证
-[MIT License](LICENSE) © 2024 Happy Birthday Project
+[Apache License](LICENSE) © 2025 Happy Birthday Project
 
 ---
 
