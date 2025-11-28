@@ -174,7 +174,7 @@ music:
 ---
 
 ## 📝 许可证
-[Apache License](LICENSE) © 2025 Happy Birthday Project
+[Apache License](LICENSE) © 2025 Aurorp1g
 
 ---
 
