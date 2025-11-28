@@ -6,8 +6,8 @@ $('#login-button').click(function (event) {
 		$('form').fadeOut(500);
 		$('.wrapper').addClass('form-success');
 		requestFullScreen();
-		setTimeout(function(){location.href="index1.html";},2000);
-		//auto_link_html("index1.html");
+		setTimeout(function(){location.href="ParticleAnimator.html";},2000);
+		//auto_link_html("ParticleAnimator.html");
 	}
 	else{
 		alert("密码是你的生日哦!（密码为4位数）");

@@ -8,8 +8,14 @@ font_animation:
   fontSize: 300  # 字体大小
   fontFamily: 'Avenir, Helvetica Neue, Helvetica, Arial, sans-serif' # 字体样式
 
+# 界面音乐配置
+music:
+  BirthdayCake: "/templates/music/1.mp3"
+  Memories: "/templates/music/2.mp3"
+
 # 各屏幕文本内容
 screens:
+  birthday_logo: "/templates/img/HappyBirthday.png"
   # 第一屏
   screen1:
     messages1:
@@ -18,15 +24,19 @@ screens:
       - "阳光下永远像个孩子，"
       - "风雨里像个大人，无畏亦无惧。"
       - "你若不伤，岁月无恙。"
+
     messages2:
       - "有幸与你相识，"
-      - "与你相识的这段时间以来"
+      - "与你相识的这段时间以来，"
       - "真的超级超级开心！"
       - "承蒙时光不弃，感谢相遇。"
       - "(往下滑，有惊喜!)"
   
   # 第二屏
   screen2:
+    image1: "/templates/img/zt.jpg"
+
+    image2: "/templates/img/timg.gif"
     message1:
       - "祝你所有的希望都能如愿，"
       - "所有的梦想都能实现，"
@@ -35,11 +45,16 @@ screens:
   
   # 第三屏
   screen3:
+    image1: "/templates/img/di2.png"
+
+    image2: "/templates/img/di21.jpg"
     message1:
       - "百事可乐"
       - "万事芬达"
       - "天天哇哈哈"
       - "月月乐百事"
+    
+    image3: "/templates/img/di54.png"
     message2:
       - "年年高乐高"
       - "心情似雪碧"
@@ -47,17 +62,21 @@ screens:
   
   # 第四屏
   screen4:
+    image1: "/templates/img/di22.jpg"
     message1:
       - "愿你"
       - "狂吃不胖，深情不负，傻人傻福，"
       - "一直幸运。一生努力，一生被爱，"
       - "想要的都拥有，得不到的都释怀。🌈"
+
+    image2: "/templates/img/di24.jpg"
     message2:
       - "悄悄许个愿望吧！"
       - "今年一定能实现！！！"
   
   # 第五屏
   screen5:
+    image1: "/templates/img/haha.jpg"
     message:
       - "Hi! 小猪猪，"
       - "今天是你的18岁生日!"
