@@ -38,6 +38,8 @@
 |---------|-----------|----------|
 | ![main](README_img/index.png) | ![quiz](README_img/birthdaycake.png) | ![equation](README_img/talk.png) |
 
+预览地址：[小猪猪18岁生日快乐](https://aurorp1g.github.io/Happy_Birthday/)
+
 ---
 
 ## 🚀 安装与使用
