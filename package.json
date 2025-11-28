@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "fs-extra": "^11.3.2",
+    "js-yaml": "^4.1.1",
+    "plop": "^4.0.4"
+  }
+}
