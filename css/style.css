@@ -1187,7 +1187,7 @@
 .ly-imgbox23{
 	display: flex;
 	justify-content: center;
-	padding-top: 40%;
+	padding-top: 45%;
 	width: 100%;
 	height: 80%;
 	border-radius: 8px;
@@ -1200,8 +1200,8 @@
 	transition-delay:12s;
 }
 .ly-img23{
-  max-width: 95%; /* 缩小图片到容器宽度的95% */
-  max-height: 95%; /* 缩小图片到容器高度的95% */
+  max-width: 70%; /* 缩小图片到容器宽度的95% */
+  max-height: 70%; /* 缩小图片到容器高度的95% */
   object-fit: contain; /* 保持图片比例 */
 }
 
