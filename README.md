@@ -36,7 +36,7 @@
 
 | 生日验证 | 生日蛋糕 | 生日祝福 |
 |---------|-----------|----------|
-| ![main](README_img/index.png) | ![quiz](README_img/birthday_cake.png) | ![equation](README_img/birthday_blessing.png) |
+| ![main](README_img/index.png) | ![quiz](README_img/birthdaycake.png) | ![equation](README_img/talk.png) |
 
 ---
 
